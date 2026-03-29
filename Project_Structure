@@ -1,0 +1,21 @@
+ai-agentic-assistant/
+│
+├── app.py                  # Streamlit UI
+├── main.py                 # CLI entry
+├── agent/
+│   ├── ai_agent.py
+│   ├── tools.py
+│
+├── core/
+│   ├── prompts.py
+│   ├── config.py
+│
+├── data/
+│   └── jobs.csv
+│
+├── utils/
+│   ├── logger.py
+│
+├── requirements.txt
+├── README.md
+└── .env
