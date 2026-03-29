@@ -1,0 +1,5 @@
+CLI:
+  python main.py
+
+UI:
+  streamlit run app.py
